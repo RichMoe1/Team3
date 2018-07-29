@@ -16,9 +16,9 @@ Finally, our presentation summarazing our results can be found in the powerpoint
 
 ## Project Contributors
 
-Haroon Ahmad
-Jeffrey Box
-Richard Moses
-Gyuheui (Joy) Choi
+* Haroon Ahmad
+* Jeffrey Box
+* Richard Moses
+* Gyuheui (Joy) Choi
 
 
